@@ -23,7 +23,7 @@ Open the Jupyter notebook 'PELC_EWA_P1.ipynb' to explore the analyses and predic
 
 ## Requirements
 
-The project uses the following libraries, which are imported in the initial cell of the notebook.
+The project uses the libraries, which are imported in the initial cell of the notebook.
 
 ## Notes
 
