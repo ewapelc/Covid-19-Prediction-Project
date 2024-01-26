@@ -1,4 +1,3 @@
-# Covid-19-Analiza-Danych
 # Covid-19 Prediction Project
 
 ## Project Description
